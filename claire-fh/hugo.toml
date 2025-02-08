@@ -1,4 +1,4 @@
 baseURL = 'https://blog.clairefh.com/'
 languageCode = 'en-uk'
 title = 'Claire FH'
-theme = 'terminal'
+theme = 'ananke'
