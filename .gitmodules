@@ -1,0 +1,3 @@
+[submodule "claire-fh/themes/terminal"]
+	path = claire-fh/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
